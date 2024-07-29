@@ -1,2 +1,2 @@
-# C-_practices
-1 YEAR COLLEAGE 
+# C++_practices
+
